@@ -1,0 +1,10 @@
+PUT http://localhost:3003/api/blogs/6342a4470a839778329e4cf6 HTTP/1.1
+Content-Type: application/json
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IjNkZWViIiwiaWQiOiI2MzUzN2YwNDI3MDcwZTg4YTY0ODk0MDQiLCJpYXQiOjE2NjY0MTY0Mjl9.MXFoQxppy6oXwxrulijJ-rsKvdqI_iCHpd0nCKv4mBg
+
+{
+    "title": "US AIR FORCE",
+    "author": "US GOVERNMENT",
+    "url": "https://www.airforce.com/",
+    "likes": 0
+}
